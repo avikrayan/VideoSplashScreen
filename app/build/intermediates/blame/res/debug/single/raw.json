@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/avik/Development/VideoSplashScreen/app/build/intermediates/res/merged/debug/raw/creative_ad.mp4",
+        "source": "/home/avik/Development/VideoSplashScreen/app/src/main/res/raw/creative_ad.mp4"
+    },
+    {
+        "merged": "/home/avik/Development/VideoSplashScreen/app/build/intermediates/res/merged/debug/raw/ad.mp4",
+        "source": "/home/avik/Development/VideoSplashScreen/app/src/main/res/raw/ad.mp4"
+    }
+]
